@@ -142,7 +142,7 @@
   * *Команда:* `git branch -M main`
 - [x] Связать локальную папку с пустым репозиторием на GitHub
   * *Команда (замените ссылку на свою):* `git remote add origin https://github.com/VictoriaPulman/Diplom.git`
-- [ ] Отправить проект на GitHub (команда push)
+- [x] Отправить проект на GitHub (команда push)
   * *Команда для первой отправки:* `git push -u origin main`
 
 ## 🔒 Ошибка блокировки Email (push declined due to email privacy restrictions)
